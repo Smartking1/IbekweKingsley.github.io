@@ -2351,7 +2351,7 @@ body.is-touch .main {
 /* One */
 
 #one-bg {
-  background: url("images/overlay.png"), url("../../my_images/what_i_do_.png");
+  background: url("images/overlay.png"), url("../../my_images/what_I_do.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2365,7 +2365,7 @@ body.is-touch .main {
 /* Two */
 
 #two-bg {
-  background: url("images/overlay.png"), url("../../my_images/who am i.jpg");
+  background: url("images/overlay.png"), url("../../my_images/skills.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2375,6 +2375,20 @@ body.is-touch .main {
 #two {
  background-color: rgba(0, 0, 00, 0.4);
 }
+
+/* Three */
+#three-bg {
+  background: url("images/overlay.png"), url("../../my_images/work-experience.jpeg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 95vh;
+}
+
+#three {
+ background-color: rgba(0, 0, 00, 0.4);
+}
+
 
 /* Contact */
 
@@ -2425,7 +2439,7 @@ body.is-touch .main {
 /* One */
 
 #one-bg {
-  background: url("images/overlay.png"), url("../../my_images/what_i_do_.png");
+  background: url("images/overlay.png"), url("../../my_images/what_I_do.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2435,7 +2449,7 @@ body.is-touch .main {
 /* Two */
 
 #two-bg {
-  background: url("images/overlay.png"), url("../../my_images/who am i.jpg");
+  background: url("images/overlay.png"), url("../../my_images/skills.png");
   background-size: cover;
   background-position: -450px;
   background-repeat: no-repeat;
