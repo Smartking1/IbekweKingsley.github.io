@@ -2463,4 +2463,18 @@ section {
 	margin-top: 3px !important;
 }
 
+article > a {
+  color: blue;
+  letter-spacing: 1.5px !important;
+  font-weight: 500 !important;
+  text-decoration: 1px underline;
+}
+
+article > a >h1 {
+  color: blue;
+  letter-spacing: 1.5px !important;
+  font-weight: 500 !important;
+  
+}
+
 
