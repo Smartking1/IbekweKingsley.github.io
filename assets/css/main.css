@@ -2336,12 +2336,12 @@ body.is-touch .main {
 
 /* Intro */
 
-#intro {
-  background-color: rgba(0, 0, 00, 0.6);
+#intro , #one, #two, #three  {
+  background-color: rgba(0, 0, 0, 0.795);
 }
 
-#intro-div {
-  background: url("images/overlay.png"), url("../../my_images/intro.jpeg");
+#intro-div{
+  background: url("../../my_images/Intro.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2351,42 +2351,32 @@ body.is-touch .main {
 /* One */
 
 #one-bg {
-  background: url("images/overlay.png"), url("../../my_images/what_I_do.jpg");
+  background: url("../../my_images/what_I_do.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   height: 95vh;
 }
 
-#one {
-  background-color: rgba(0, 0, 00, 0.4);
-}
 
 /* Two */
 
 #two-bg {
-  background: url("images/overlay.png"), url("../../my_images/skills.png");
+  background: url("../../my_images/skills.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   height: 95vh;
 }
 
-#two {
- background-color: rgba(0, 0, 00, 0.4);
-}
 
 /* Three */
 #three-bg {
-  background: url("images/overlay.png"), url("../../my_images/work-experience.jpeg");
+  background: url("../../my_images/work-experience.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   height: 95vh;
-}
-
-#three {
- background-color: rgba(0, 0, 00, 0.4);
 }
 
 
@@ -2429,7 +2419,7 @@ body.is-touch .main {
 
 
 #intro-div {
-  background: url("images/overlay.png"), url("../../my_images/intro.jpeg");
+  background: url("../../my_images/Intro.jpeg");
   background-size: cover;
   background-position: -150px;
   background-repeat: no-repeat;
@@ -2439,7 +2429,7 @@ body.is-touch .main {
 /* One */
 
 #one-bg {
-  background: url("images/overlay.png"), url("../../my_images/what_I_do.jpg");
+  background: url("../../my_images/what_I_do.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2449,7 +2439,7 @@ body.is-touch .main {
 /* Two */
 
 #two-bg {
-  background: url("images/overlay.png"), url("../../my_images/skills.png");
+  background: url("../../my_images/skills.png");
   background-size: cover;
   background-position: -450px;
   background-repeat: no-repeat;
