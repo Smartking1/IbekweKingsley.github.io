@@ -2498,6 +2498,14 @@ article > a >h1 {
   .cards_item {
     width: 50%;
   }
+
+  .card_image {
+    width: 100%;
+  }
+
+  .card_image img {
+   width: 100%;
+}
 }
 
 @media (min-width: 56rem) {
